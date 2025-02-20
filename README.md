@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects 
 ## 🔭 Projects
 
 - **[Portfolio Website](https://satyajj.github.io/portfolio-website/)** – A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript.
-- **2048 Game (Java)** – Implemented the classic 2048 game using data structures and algorithms.
+- **[2048 Game (Java)](https://github.com/Satyajj/Game2048)** – Implemented the classic 2048 game using data structures and algorithms.
 - **Sudoku Solver** – A backtracking-based algorithm to solve Sudoku puzzles efficiently.
 
 ---
@@ -17,14 +17,14 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects 
 ## 🌱 Currently Learning
 
 - Advanced JavaScript frameworks (React, Next.js)
-- Backend development (Node.js, Express)
+- Backend development (Node.js, Express, Jdbc)
 - Competitive Programming & DSA
 
 ---
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Java, JavaScript, HTML, CSS
+- **Languages:** Java, JavaScript, HTML, Python , CSS
 - **Frameworks & Libraries:** React.js, Tailwind CSS
 - **Tools & Platforms:** GitHub, VS Code, IntelliJ Idea
 - **Other Skills:** Problem-solving, DSA, Web Development
