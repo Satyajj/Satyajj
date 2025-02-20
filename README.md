@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects 
 
 ## 🔭 Projects
 
-- **[Portfolio Website](https://satyajj.github.io/portfolio-website/)** – A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript.
+- **[Portfolio Website](https://satyajj.github.io/Portfolio-website/)** – A personal portfolio showcasing my projects and skills, built with HTML, CSS, and JavaScript.
 - **[2048 Game (Java)](https://github.com/Satyajj/Game2048)** – Implemented the classic 2048 game using data structures and algorithms.
 - **Sudoku Solver** – A backtracking-based algorithm to solve Sudoku puzzles efficiently.
 - **Event Management System** – A project designed to streamline event planning and coordination.
